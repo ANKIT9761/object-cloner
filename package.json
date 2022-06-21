@@ -1,0 +1,16 @@
+{
+  "name": "@ankitkanyal/object-cloner",
+  "version": "2.0.1",
+  "description": "A simple utility library for cloning objects and arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "clone",
+    "objects",
+    "arrays"
+  ],
+  "author": "ankitkanyal <ankitsinghkanyal43@gmail.com>",
+  "license": "ISC"
+}
